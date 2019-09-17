@@ -11,3 +11,5 @@ In this module we will cover the basics of using `jest` to test React applicatio
 - [ ] type `yarn` or `npm i` to download dependencies.
 
 Please follow along as the instructor uses _Test Driven Development (TDD)_ to build and test a React application.
+
+https://www.youtube.com/watch?v=ltPWZf9ZNwE&feature=youtu.be
